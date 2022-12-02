@@ -6,7 +6,7 @@ public class Arraydemo1 {
 		
 	}
 	
-	public void setIntegerArray(int[]array) {
+	public void setIntegerArray(int array[]) {
 		for (int i=0;i<array.length;i++) {
 			System.out.println(array[i]);
 		}
